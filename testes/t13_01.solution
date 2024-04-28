@@ -1,0 +1,32 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ####  ATEC Bank  ####
+Data Atual: 0
+Clientes: 0
+Contas: 0
+Valor em Cofre: 0.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> #A sair da aplicação Banco#

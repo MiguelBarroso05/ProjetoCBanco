@@ -1,0 +1,629 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Mark Twain, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Hailie Blaese, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 3, Farzana Cornish, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 4, Zeus Olimpius, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 5, Nell Webber, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 6, Lucas Prior, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 7, Paulo Futre, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A3X criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A1X criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta AL2 criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta B4F criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta B6G criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta B89 criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta C7L criada com sucesso para o cliente 3
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta C1A criada com sucesso para o cliente 3
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta CT6 criada com sucesso para o cliente 3
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta D9O criada com sucesso para o cliente 4
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta D3F criada com sucesso para o cliente 4
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta EEO criada com sucesso para o cliente 5
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta EA1 criada com sucesso para o cliente 5
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta FFZ criada com sucesso para o cliente 6
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta F33 criada com sucesso para o cliente 6
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta GS4 criada com sucesso para o cliente 7
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta GI9 criada com sucesso para o cliente 7
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ####  ATEC Bank  ####
+Data Atual: 0
+Clientes: 7
+Contas: 17
+Valor em Cofre: 0.00 €
+###### INFO CLIENTE: 3 (data: 0) ######
+NOME: Farzana Cornish
+NIF: 878497580
+NUM. CONTAS: 3
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: C1A - Saldo: 0.00 €
+  # Conta Num: C7L - Saldo: 0.00 €
+  # Conta Num: CT6 - Saldo: 0.00 €
+###### INFO CLIENTE: 2 (data: 0) ######
+NOME: Hailie Blaese
+NIF: 755065091
+NUM. CONTAS: 3
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: B4F - Saldo: 0.00 €
+  # Conta Num: B6G - Saldo: 0.00 €
+  # Conta Num: B89 - Saldo: 0.00 €
+###### INFO CLIENTE: 6 (data: 0) ######
+NOME: Lucas Prior
+NIF: 337029061
+NUM. CONTAS: 2
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: F33 - Saldo: 0.00 €
+  # Conta Num: FFZ - Saldo: 0.00 €
+###### INFO CLIENTE: 1 (data: 0) ######
+NOME: Mark Twain
+NIF: 927430980
+NUM. CONTAS: 3
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: A1X - Saldo: 0.00 €
+  # Conta Num: A3X - Saldo: 0.00 €
+  # Conta Num: AL2 - Saldo: 0.00 €
+###### INFO CLIENTE: 5 (data: 0) ######
+NOME: Nell Webber
+NIF: 167072062
+NUM. CONTAS: 2
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: EA1 - Saldo: 0.00 €
+  # Conta Num: EEO - Saldo: 0.00 €
+###### INFO CLIENTE: 7 (data: 0) ######
+NOME: Paulo Futre
+NIF: 826483538
+NUM. CONTAS: 2
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: GI9 - Saldo: 0.00 €
+  # Conta Num: GS4 - Saldo: 0.00 €
+###### INFO CLIENTE: 4 (data: 0) ######
+NOME: Zeus Olimpius
+NIF: 897229456
+NUM. CONTAS: 2
+POSIÇÃO INTEGRADA: 0.00 €
+  # Conta Num: D3F - Saldo: 0.00 €
+  # Conta Num: D9O - Saldo: 0.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Lista dos Melhores Clientes:
+   ->1 - 927430980 - Mark Twain - 0.00€
+   ->2 - 755065091 - Hailie Blaese - 0.00€
+   ->3 - 878497580 - Farzana Cornish - 0.00€
+   ->4 - 897229456 - Zeus Olimpius - 0.00€
+   ->5 - 167072062 - Nell Webber - 0.00€
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 10.00 € efetuado com sucesso na conta GI9
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Lista dos Melhores Clientes:
+   ->7 - 826483538 - Paulo Futre - 10.00€
+   ->1 - 927430980 - Mark Twain - 0.00€
+   ->2 - 755065091 - Hailie Blaese - 0.00€
+   ->3 - 878497580 - Farzana Cornish - 0.00€
+   ->4 - 897229456 - Zeus Olimpius - 0.00€
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 23.50 € efetuado com sucesso na conta F33
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Lista dos Melhores Clientes:
+   ->6 - 337029061 - Lucas Prior - 23.50€
+   ->7 - 826483538 - Paulo Futre - 10.00€
+   ->1 - 927430980 - Mark Twain - 0.00€
+   ->2 - 755065091 - Hailie Blaese - 0.00€
+   ->3 - 878497580 - Farzana Cornish - 0.00€
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 23.50 € efetuado com sucesso na conta B4F
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 90.00 € efetuado com sucesso na conta A1X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Lista dos Melhores Clientes:
+   ->1 - 927430980 - Mark Twain - 90.00€
+   ->2 - 755065091 - Hailie Blaese - 23.50€
+   ->6 - 337029061 - Lucas Prior - 23.50€
+   ->7 - 826483538 - Paulo Futre - 10.00€
+   ->3 - 878497580 - Farzana Cornish - 0.00€
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 8.00 € efetuado com sucesso na conta C7L
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 12.00 € efetuado com sucesso na conta CT6
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> #######  6 Movimentos no Banco  #######
+   -> [0006] dia:   0 | Cliente:   3 [CT6] |      DEPOSITO : 12.00 €
+   -> [0005] dia:   0 | Cliente:   3 [C7L] |      DEPOSITO : 8.00 €
+   -> [0004] dia:   0 | Cliente:   1 [A1X] |      DEPOSITO : 90.00 €
+   -> [0003] dia:   0 | Cliente:   2 [B4F] |      DEPOSITO : 23.50 €
+   -> [0002] dia:   0 | Cliente:   6 [F33] |      DEPOSITO : 23.50 €
+   -> [0001] dia:   0 | Cliente:   7 [GI9] |      DEPOSITO : 10.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Lista dos Melhores Clientes:
+   ->1 - 927430980 - Mark Twain - 90.00€
+   ->2 - 755065091 - Hailie Blaese - 23.50€
+   ->6 - 337029061 - Lucas Prior - 23.50€
+   ->3 - 878497580 - Farzana Cornish - 20.00€
+   ->7 - 826483538 - Paulo Futre - 10.00€
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> #A sair da aplicação Banco#

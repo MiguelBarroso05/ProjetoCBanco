@@ -1,0 +1,4 @@
+**/*.o
+banco_app
+studentOut/in_*
+.vscode

@@ -1,0 +1,311 @@
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> Opção Inválida!!!!
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Opção Inválida!!!!
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Opção Inválida!!!!
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 1, Farzana Cornish, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o nome do Cliente->Introduza o NIF do Cliente->Cliente 2, Nell Webber, inserido com sucesso
+##########################################
+##########   MENU CLIENTES   #############
+(1) Inserir Cliente
+(2) Listar Clientes
+(3) Mostrar Cliente
+(4) Apagar Cliente
+(5) Procurar Clientes
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A3X criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta A1X criada com sucesso para o cliente 1
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Conta LL2 criada com sucesso para o cliente 2
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Erro! O cliente com o ID 3 não existe
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Opção Inválida!!!!
+##########################################
+##########    MENU CONTAS    #############
+(1) Criar Conta
+(2) Listar Contas Cliente
+(3) Mostrar Conta Cliente
+(4) Fechar Conta
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> ##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 300.00 € efetuado com sucesso na conta A3X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Levantamento de 80.00 € efetuado com sucesso da conta A3X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 30.00 € efetuado com sucesso na conta LL2
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Introduza o ID do cliente->Introduza o número da conta->Transferência de 100.00 € efetuada com sucesso. A3X -> LL2
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Levantamento de 15.50 € efetuado com sucesso da conta A3X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Erro! O cliente com o ID 1 não possuí a conta LL2
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Opção Inválida!!!!
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Depósito de 5.00 € efetuado com sucesso na conta A3X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Levantamento de 10.00 € efetuado com sucesso da conta LL2
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Levantamento de 20.00 € efetuado com sucesso da conta A1X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> Introduza o ID do cliente->Introduza o número da conta->Introduza o valor em €->Levantamento de 30.00 € efetuado com sucesso da conta A3X
+##########################################
+##########    MENU MOVIMENTOS   #############
+(1) Depositar Dinheiro
+(2) Levantar Dinheiro
+(3) Efetuar Transferência
+-------------------
+(9) Menu Principal
+##########################################
+Insira a sua opção -> ##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> #######  10 Movimentos no Banco  #######
+   -> [0010] dia: 0 | Cliente: 1 [A3X] | LEVANTAMENTO : -30.00 €
+   -> [0009] dia: 0 | Cliente: 1 [A1X] | LEVANTAMENTO : -20.00 €
+   -> [0008] dia: 0 | Cliente: 2 [LL2] | LEVANTAMENTO : -10.00 €
+   -> [0007] dia: 0 | Cliente: 1 [A3X] | DEPOSITO : 5.00 €
+   -> [0006] dia: 0 | Cliente: 1 [A3X] | LEVANTAMENTO : -15.50 €
+   -> [0005] dia: 0 | Cliente: 2 [LL2] | TRANSFERÊNCIA : 100.00 €
+   -> [0004] dia: 0 | Cliente: 1 [A3X] | TRANSFERÊNCIA : -100.00 €
+   -> [0003] dia: 0 | Cliente: 2 [LL2] | DEPOSITO : 30.00 €
+   -> [0002] dia: 0 | Cliente: 1 [A3X] | LEVANTAMENTO : -80.00 €
+   -> [0001] dia: 0 | Cliente: 1 [A3X] | DEPOSITO : 300.00 €
+##########################################
+###############   MENU   #################
+(1) Menu Clientes
+(2) Menu Contas
+(3) Menu Movimentos
+(4) Informação do Banco
+(5) Informação do Banco Completa
+(6) Lista Movimentos do Banco
+(7) Avançar Data
+(8) Lista Melhores Clientes
+-------------------
+(9) Sair da aplicação
+##########################################
+Insira a sua opção -> #A sair da aplicação Banco#
